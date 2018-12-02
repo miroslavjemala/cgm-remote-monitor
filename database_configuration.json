@@ -1,4 +1,4 @@
 {
-    "url": null,
+    "url": mongodb://diabetestest:diabetestest2018@ds053874.mlab.com:53874/diabetestest,
     "collection": null
 }
